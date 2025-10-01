@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anas  
 
-🎓 Étudiant en 2ème année cycle informatique au **CESI Rouen**, passionné par le **développement fullstack** et l’**intelligence artificielle**.  
-💡 Intéressé par la création de solutions innovantes — du développement web aux applications propulsées par l’IA.  
+🎓 Étudiant en 2ème année cycle préparatoir informatique au **CESI Rouen**, passionné par le **développement fullstack** et l’**intelligence artificielle**.  
+💡 Intéressé par la création de solutions innovantes — du développement web aux applications basées sur l’IA.  
 🤝 Basé en France, ouvert aux collaborations et projets intéressants.  
 🎶 En dehors de l’informatique : musique (violon, guitare, rap) et sport (basketball, musculation, boxe).  
 
@@ -34,10 +34,10 @@
   Développement d’un site web avec comptes utilisateurs et fonctionnalités de sécurité.  
 
 - 🔹 **Site de recherche de stage (HTML/CSS/PHP/JS)**  
-  Plateforme web permettant de consulter et postuler à des offres de stage.  
+  Plateforme web permettant de consulter et de postuler à des offres de stage.  
 
 - 🔹 **Simulation du Jeu de la Vie (C++)**  
-  Projet collaboratif en POO simulant l’évolution de cellules selon des règles de vie et de mort.  
+  Simulation du Jeu de la Vie en C++ (POO) en projet de groupe.  
 
 ---
 
