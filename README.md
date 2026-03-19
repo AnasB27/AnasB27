@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Anas  
+# 👋 Salut, moi c'est Anas
 
-🎓 Étudiant en 2ème année de **cycle préparatoire informatique**, passionné par le **développement fullstack** et l’**intelligence artificielle**.  
+🎓 Étudiant en **1ère année de BTS SIO (option SLAM)** à l'**IPSSI**, passionné par le **développement fullstack** et l’**intelligence artificielle**.  
 💡 Intéressé par la création de solutions innovantes — du développement web aux applications basées sur l’IA.  
 🤝 Basé en France, ouvert aux collaborations et projets stimulants.  
 🎶 En dehors de l’informatique : musique (violon, guitare, rap) et sport (basketball, musculation, boxe).  
@@ -27,17 +27,15 @@
 
 ## 📂 Projects  
 
-- 🔹 **Développement logiciel métier (Python, IA)**  
-  Conception d’un logiciel de catégorisation d’images avec IA — *Stage au STAC*.  
+- 🔹 **Portfolio Personnel (En construction)** Site web présentant mes projets, mon parcours et mes compétences. [Mon portfolio](https://anas-bazi.vercel.app)
 
-- 🔹 **Site de gestion de stockage (HTML/CSS/PHP/JS)**  
-  Développement d’un site web avec gestion de comptes utilisateurs et fonctionnalités de sécurité.  
+- 🔹 **Développement logiciel métier (Python, IA)** Conception d’un logiciel de catégorisation d’images avec IA — *Stage au STAC*.  
 
-- 🔹 **Site de recherche de stage (HTML/CSS/PHP/JS)**  
-  Plateforme web permettant de consulter et de postuler à des offres de stage.  
+- 🔹 **Site de gestion de stockage (HTML/CSS/PHP/JS)** Développement d’un site web avec gestion de comptes utilisateurs et fonctionnalités de sécurité.  
 
-- 🔹 **Simulation du Jeu de la Vie (C++)**  
-  Projet collaboratif en POO simulant l’évolution de cellules selon des règles de vie et de mort.  
+- 🔹 **Site de recherche de stage (HTML/CSS/PHP/JS)** Plateforme web permettant de consulter et de postuler à des offres de stage.  
+
+- 🔹 **Simulation du Jeu de la Vie (C++)** Projet collaboratif en POO simulant l’évolution de cellules selon des règles de vie et de mort.  
 
 ---
 
@@ -58,3 +56,4 @@
 ## 📫 Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-bazi-339a01237)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.bazianas@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E5494?logo=googlechrome&logoColor=white)](https://ton-portfolio.com)
